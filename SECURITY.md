@@ -1,5 +1,5 @@
 # Security and privacy
-If you discover potential security issues in the project, or believe you may have found a security issue, please notify the ByteDance security team through our [security center](https://security.bytedance.com/src) or [vulnerability reporting email](mailto:src@bytedance.com). Please do not create public GitHub Issues.
+If you discover potential security issues in the project, or believe you may have found a security issue, please notify the ByteDance security team through our [security center](https://security.bytedance.com/src) or [vulnerability reporting email](mailto:src@bytedance.com). Please *do not* create public GitHub Issues.
  
 We will assess the vulnerability based on the Common Vulnerability Scoring System (CVSS 3.1). The security team will keep you updated on key progress and may request further information or guidance from you. You are welcome to contact us via the email or website mentioned above to ask questions or discuss disclosure matters.
  
